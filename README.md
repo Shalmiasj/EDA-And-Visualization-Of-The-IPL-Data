@@ -54,6 +54,10 @@ using respective evaluation metrics.
 
 We performed Season-wise, team-wise and player wise analysis on matches and deliveries dataset and visualized the results.We extracted the details(matches played ,strike rate, balls bowled, runs etc.)of all the players through out all the seasons and created a dataset which we have used to perform clustering.The players performance using  4 clustering algorithms are compared. Based on the performance metrics we conclude that  hierarchical clustering, AGNES using average linkage  produced better clustering results compared to Mini batch k means, Birch and DBSCAN clustering.
 
+## Documentation
+[Documentation](https://drive.google.com/file/d/1bCzzydKSAztOrsjSNIEmg4XjI-wyiXGM/view?usp=sharing)
+
+
 
  
 
